@@ -1,0 +1,16 @@
+{
+  "name": "belkin-wemo",
+  "version": "0.0.1",
+  "description": "Belkin WeMo NodeJS Module",
+  "main": "lib/Wemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Burkhart",
+  "license": "MIT",
+  "dependencies": {
+    "node-ssdp": "~2.2.2",
+    "needle": "~0.10.0",
+    "xml2js": "~0.4.9"
+  }
+}
